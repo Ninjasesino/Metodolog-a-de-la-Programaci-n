@@ -1,0 +1,13 @@
+dic = {
+    "clase": {
+        "estudiante": {
+        'nombre' : 'Mike',
+        "curso" : {
+            'fisica' : 70,
+            'historia':80
+        }
+        }
+    }
+}
+
+print (dic['clase']['estudiante']['curso']['historia'])

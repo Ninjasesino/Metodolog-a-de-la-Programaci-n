@@ -1,0 +1,6 @@
+import random 
+import os
+
+
+#4
+os.system('cls')
